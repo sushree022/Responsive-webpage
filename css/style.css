@@ -1,0 +1,145 @@
+
+nav
+{
+    background-color: rgb(133, 206, 133);
+}
+
+.navbar-brand
+{
+    padding-left: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(175, 18, 18) !important;
+    font-weight: 900;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.btn
+{
+    background-color: blue;
+}
+
+/* styling carousel*/
+.carousel-slide
+{
+    margin-top: 100px;
+    width: 100%;
+
+}
+
+.display-4
+{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.lead
+{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.jumbotron
+{
+    background-color: lavenderblush;
+    margin-top: 6rem;
+}
+/* styling content*/
+
+.main-content
+{
+    padding-left: 20px;
+    margin-top: 50px;
+    text-align: justify;
+}
+.main-content h2
+{
+    color: green;
+    font-weight: 800;
+    text-align: center;
+}
+
+/* sevices */
+.more-info
+{
+    margin-top: 50px;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+h3
+{
+    color: fuchsia;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.lead
+{
+    margin-left: 150px;
+}
+
+.map
+{
+    padding-left: 20rem;
+}
+/*styling tabs*/
+
+.tabbable
+{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.tab-content
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.tab-content p
+{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* styling footer*/
+footer
+{
+    width:100%;
+    background:rgb(133, 206, 133);
+    margin-top: 80px;
+    text-align: center;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+ul li
+{
+    display: inline;
+}
+
+.copyright
+{
+    padding-top: 30px;
+    text-align: justify;
+}
+.follow
+{
+    padding-top: 20px;
+}
+
+.links p
+{
+    padding-top: 10px;
+    text-decoration: blueviolet;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+/* social media icons */
+.fab
+{
+    margin:10px;
+}
+
